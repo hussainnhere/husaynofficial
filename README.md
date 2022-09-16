@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @husaynofficial
+- 👋 Hi, I’m @hussainnhere
 - 👀 I’m interested in python and blockchain
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on tricks
 - 📫 How to reach me insta:hussainnhere
 
